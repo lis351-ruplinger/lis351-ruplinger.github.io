@@ -1,0 +1,62 @@
+/* You should edit the content below to fit your website */
+
+* {
+	font-family: Georgia, Verdana; sans-serif;
+	color: #F0C27D;
+	text-align: center;
+}
+
+body{
+	width: 960px;
+	margin: 0 auto;
+}
+nav {
+	background-color: #F07767;
+	padding: 10px;
+	margin: 10px;	
+}
+li {
+	display: inline;
+	padding: 5px;
+}
+section{
+	overflow: auto;
+	height: 100%;
+}
+
+main{
+	background-color: #F07767;
+	padding: 10px;
+	margin: 10px;
+}
+
+article{
+	background-color: #F07767;
+	padding: 10px;
+	margin: 10px;
+	width: 280px;
+	float: left;
+}
+
+.mart1{
+	background-color: #EB8B65;
+}
+
+.mart2{
+	background-color: #EFA096;
+}
+
+.mart3{
+	width: 440px;
+}
+
+.mart4{
+	background-color: #EFA096;
+}
+
+footer{
+	background-color: #F07767;
+	padding: 10px;
+	margin: 10px;
+}
+
