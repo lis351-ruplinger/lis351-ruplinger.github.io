@@ -22,6 +22,7 @@ li {
 section{
 	overflow: auto;
 	height: 100%;
+	margin: 0 auto;
 }
 
 main{
